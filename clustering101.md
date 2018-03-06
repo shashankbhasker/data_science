@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Clustering 101
 
 
 Clustering is a broad set of techniques for finding subgroups of observations within a data set. When we cluster observations, we want observations in the same group to be similar and observations in different groups to be dissimilar. Because there isn’t a response variable, this is an unsupervised method, which implies 
